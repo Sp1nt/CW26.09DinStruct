@@ -1,6 +1,6 @@
 #include "STEK.h"
 #include <iostream>
-#include <string.h>
+#include <string>
 #include <time.h>
 
 using namespace std;
